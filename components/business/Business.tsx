@@ -34,7 +34,7 @@ export default function Business() {
       >
         <div className="relative w-full h-100">
           <Image
-            src="/event1.jpg"
+            src="/event1.JPG"
             alt="events"
             width={400}
             height={400}
