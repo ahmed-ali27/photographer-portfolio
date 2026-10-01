@@ -1,6 +1,6 @@
 import { Reem_Kufi, IBM_Plex_Sans_Arabic } from "next/font/google";
 
-
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import "./globals.css";
 
 const display = Reem_Kufi({
@@ -28,7 +28,11 @@ export default function RootLayout({
       dir="rtl"
       className={`${display.variable} ${body.variable}`}
     >
-      <body className="bg-[#F3EFE6] text-neutral-900 min-h-screen"> {children}</body>
+      <body className="bg-[#F3EFE6] text-neutral-900 min-h-screen">
+        {" "}
+        {children}
+        <SpeedInsights />
+      </body>
     </html>
   );
 }
