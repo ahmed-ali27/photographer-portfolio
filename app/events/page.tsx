@@ -16,6 +16,9 @@ export default function Events() {
     "/event7.JPG",
     "/event8.JPG",
     "/event9.JPG",
+    "/event10.JPG",
+    "/event11.JPG",
+    "/event12.JPG",
   ];
 
   const [selectedIndex, setSelectedIndex] = useState<number | null>(null);

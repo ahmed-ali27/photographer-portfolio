@@ -91,7 +91,10 @@ export default function Packags() {
       <div className="max-w-3xl mx-auto">
         <div className="bg-neutral-900/40 text-neutral-300 p-6 rounded-2xl border border-dashed border-neutral-600 shadow-xl shadow-black/40 text-center space-y-2">
           <p className="text-sm font-semibold">
-            📌 تنويه هام: الاستلام بعد مدة من 25 إلى 35 يوم من تاريخ المناسبة.
+            📌 تنويه هام: الاستلام بعد مدة من 15 إلى 20 يوم من تاريخ المناسبة.
+          </p>
+          <p className="text-sm font-semibold">
+            📌 تنويه هام:أسعار الباكيدجات غير شامله أسعار اللوكيشن .
           </p>
           <p className="text-xs ">
             💡 ملحوظة: يوجد تغطية ستوريز وريلز بالموبايل بناءً على طلب العميل.

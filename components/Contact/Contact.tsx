@@ -8,7 +8,7 @@ export default function Contact() {
         </h1>
         {/* واتساب مع رسالة جاهزة */}
         <a
-          href="https://wa.me/201025280687?text=أهلاً%20عايز%20أستفسر%20عن%الباكيدجات"
+          href="https://wa.me/201025280687?text=أهلاً%20عايز%20أستفسر%20عن%20الباكيدجات"
           target="_blank"
           rel="noreferrer"
         >

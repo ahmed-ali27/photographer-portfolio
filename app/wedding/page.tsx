@@ -16,6 +16,15 @@ export default function WeddingPage() {
     "/weding6.jpeg",
     "/weding7.jpeg",
     "/weding8.jpeg",
+    "/weding9.jpeg",
+    "/weding10.jpeg",
+    "/weding11.jpeg",
+    "/weding12.jpeg",
+    "/weding13.jpeg",
+    "/weding14.jpeg",
+    "/weding15.jpeg",
+    "/weding16.jpeg",
+    "/weding17.jpeg",
   ];
 
   const [selectedIndex, setSelectedIndex] = useState<number | null>(null);
