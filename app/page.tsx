@@ -4,6 +4,7 @@ import Navbar from "../components/navbar/Navbar";
 import Business from "../components/business/Business";
 import Packags from "@/components/Packag/Packags";
 import Contact from "@/components/Contact/Contact";
+import Footer from "@/components/footer/Footer";
 
 export default function Home() {
   return (
@@ -30,6 +31,7 @@ export default function Home() {
           <Contact />
         </section>
       </main>
+      <Footer/>
     </div>
   );
 }
